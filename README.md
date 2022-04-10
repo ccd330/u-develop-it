@@ -18,7 +18,7 @@
   ## Description
   This project provides the backend for U Vote It, a voting application for a fictional local developer meetup group called U Develop It. In addition to building the Express.js API I connected the back end to a relational database using MySQL.
   
-  <img src="https://github.com/ccd330/ecommerce-backend/blob/main/Develop/demo.png" />
+  <img src="https://github.com/ccd330/u-develop-it/blob/main/demo.png" />
 
   ## Installation Instructions
   Download file package and install dependencies: Express, MySQL and MySQL2.
