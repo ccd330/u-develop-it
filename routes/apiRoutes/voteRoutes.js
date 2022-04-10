@@ -26,7 +26,7 @@ router.get('/votes', (req, res) => {
 });
 
 // Create a vote record
-router.post('/votes', ({ body }, res) => {
+router.post('/vote', ({ body }, res) => {
   // Data validation
   const errors = inputCheck(body, 'voter_id', 'candidate_id');
   if (errors) {
